@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Marija.
-- 👀 I’m interested in learning Java Script and Front End Developement.
-- 🌱 I’m currently learning HTML and CSS basics.
+- 👀 I’m interested in learning FrontEnd and BackEnd Developement.
+- 🌱 I’m currently learning Angular, NodeJS, MongoDB and SQL basics.
 - 💞️ I’m looking to collaborate on learning new skills in programming.
-- 📫 You can reach me on: dark.moon986@gmail.com
+- 📫 You can reach me on: m.jovanovic.0409@gmail.com
 
 <!---
 MaryJane86/MaryJane86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
