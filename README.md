@@ -1,10 +1,21 @@
-- 👋 Hi, I’m Marija.
-- 👀 I’m interested in learning FrontEnd and BackEnd Developement.
-- 🌱 I’m currently learning Angular, NodeJS, MongoDB and SQL basics.
-- 💞️ I’m looking to collaborate on learning new skills in programming.
-- 📫 You can reach me on: m.jovanovic.0409@gmail.com
+- 👋 Hi, I’m Marija, an enthusiastic junior developer with a growing passion for web development.
+I'm excited to share my journey and projects as I learn and explore the world of coding.
 
-<!---
-MaryJane86/MaryJane86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- My Interests:
+*JavaScript: I'm fascinated by JavaScript's versatility and power.
+It's my go-to language for building interactive and dynamic web applications, and I'm always eager to learn more about it.
+*Angular: I enjoy working with Angular for its structured approach to building single-page applications (SPAs).
+It's a fantastic framework that helps me create scalable and maintainable projects.
+*Web Development: From front-end design to back-end functionality, I'm passionate about all aspects of web development.
+I aim to build user-friendly experiences that solve real-world problems.
+
+- What You Can Find Here:
+*Projects: A collection of my projects showcasing what I've learned in JavaScript, Angular, and other technologies.
+These projects range from small exercises to more comprehensive applications.
+*Learning and Experimentation: Code snippets, experiments, and prototypes where I test new ideas and concepts.
+I'm committed to continuous learning and sharing my progress with the community.
+
+Feel free to explore my repositories, provide feedback, and connect with me. I'm always open to collaborating and learning from others.
+
+Happy Coding!
+[Marija]
