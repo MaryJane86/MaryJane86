@@ -17,5 +17,7 @@ I'm committed to continuous learning and sharing my progress with the community.
 
 Feel free to explore my repositories, provide feedback, and connect with me. I'm always open to collaborating and learning from others.
 
+You can contact me on: m.jovanovic.0409@gmail.com
+
 Happy Coding!
 [Marija]
